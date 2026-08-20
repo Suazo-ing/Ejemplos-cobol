@@ -1,0 +1,10 @@
+1000  RECURSOS HUMANOS       GUANAJUATO                    0085050
+5000  SISTEMAS               CIUDAD DE MEXICO              0095070
+4000  IT                     MONTERREY                     0120000
+7000  PRODUCCION             CIUDAD DE MEXICO              0065020
+8000  ADMINISTRACION         GUANAJUATO                    0135050
+9000  CALIDAD                GUANAJUATO                    0098630
+2000  VENTAS                 GUANAJUATO                    0074000
+3000  CONTABILIDAD           QUERETARO                     0130500
+6000  MANTENIMIENTO          CIUDAD DE MEXICO              0102000
+0100  RECURSOS HUMANOS       GUANAJUATO                    0098500

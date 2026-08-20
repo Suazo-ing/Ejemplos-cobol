@@ -1,0 +1,20 @@
+GMB120101ABC Grupo Bimbo         Nacional            Mexico            Alimentos
+CEM850101XYZ Cemex               Nacional            Mexico            Construccion
+AMO890101DEF America Movil       Nacional            Mexico            Telecomunicaciones
+FEM900101GHI Femsa               Nacional            Mexico            Bebidas
+GMO930101JKL Grupo Modelo        Nacional            Mexico            Bebidas
+BNR950101MNO Banorte             Nacional            Mexico            Finanzas
+ALF880101PQR Alfa                Nacional            Mexico            Industria
+LIV920101STU Liverpool           Nacional            Mexico            Comercio
+GOO990101VWX Google              Internacional       Estados Unidos    Tecnologia
+MIC850101YZA Microsoft           Internacional       Estados Unidos    Tecnologia
+AMZ940101BCD Amazon              Internacional       Estados Unidos    Comercio
+APL760101EFG Apple               Internacional       Estados Unidos    Tecnologia
+TOY380101HIJ Toyota              Internacional       Japon             Automotriz
+SAM690101KLM Samsung             Internacional       Corea del Sur     Tecnologia
+SIE470101NOP Siemens             Internacional       Alemania          Industria
+NES010101QRS Nestle              Internacional       Suiza             Alimentos
+COC990101TUV Coca Cola           Internacional       Estados Unidos    Bebidas
+IBM110101WXY IBM                 Internacional       Estados Unidos    Tecnologia
+SON590101ZAB Sony                Internacional       Japon             Tecnologia
+VOL390101CDE Volkswagen          Internacional       Alemania          Automotriz

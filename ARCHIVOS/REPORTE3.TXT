@@ -1,0 +1,27 @@
+--REPORTE DE EMPRESAS Y EMPLEADOS--
+
+GMB120101ABC | Grupo Bimbo | Nacional | Mexico | Alimentos | Juan Garcia, Fernando Flores, Eduardo Jimenez
+CEM850101XYZ | Cemex | Nacional | Mexico | Construccion | Juan Garcia, Miguel Rodriguez, Roberto Morales, Hector Vega
+AMO890101DEF | America Movil | Nacional | Mexico | Telecomunicaciones | Carlos Martinez, Daniela Diaz
+FEM900101GHI | Femsa | Nacional | Mexico | Bebidas | Maria Lopez, Carmen Chavez, Eduardo Jimenez
+GMO930101JKL | Grupo Modelo | Nacional | Mexico | Bebidas | Maria Lopez, Gabriela Rivera, Carmen Chavez, Paola Aguilar
+BNR950101MNO | Banorte | Nacional | Mexico | Finanzas | Carlos Martinez, Ana Hernandez, Laura Sanchez, Monica Castillo, Adriana Nunez
+ALF880101PQR | Alfa | Nacional | Mexico | Industria | Ricardo Gomez, Oscar Medina
+LIV920101STU | Liverpool | Nacional | Mexico | Comercio | Ana Hernandez, Patricia Ortiz, Monica Castillo
+GOO990101VWX | Google | Internacional | Estados Unidos | Tecnologia | Luis Gonzalez, Diego Ramirez, Daniela Diaz, Andres Mendoza, Claudia Soto
+MIC850101YZA | Microsoft | Internacional | Estados Unidos | Tecnologia | Luis Gonzalez, Valeria Torres, Alejandro Gutierrez, Andres Mendoza, Sergio Campos
+AMZ940101BCD | Amazon | Internacional | Estados Unidos | Comercio | Fernando Flores, Jorge Ramos, Paola Aguilar
+APL760101EFG | Apple | Internacional | Estados Unidos | Tecnologia | Sofia Perez, Patricia Ortiz, Andres Mendoza
+TOY380101HIJ | Toyota | Internacional | Japon | Automotriz | Miguel Rodriguez, Roberto Morales, Elena Vazquez, Hector Vega
+SAM690101KLM | Samsung | Internacional | Corea del Sur | Tecnologia | Sofia Perez, Natalia Herrera, Sergio Campos
+SIE470101NOP | Siemens | Internacional | Alemania | Industria | Valeria Torres, Ricardo Gomez, Oscar Medina
+NES010101QRS | Nestle | Internacional | Suiza | Alimentos | Laura Sanchez, Jorge Ramos, Adriana Nunez
+COC990101TUV | Coca Cola | Internacional | Estados Unidos | Bebidas | Gabriela Rivera, Carmen Chavez, Eduardo Jimenez, Paola Aguilar
+IBM110101WXY | IBM | Internacional | Estados Unidos | Tecnologia | Diego Ramirez, Alejandro Gutierrez, Claudia Soto
+SON590101ZAB | Sony | Internacional | Japon | Tecnologia | Alejandro Gutierrez, Natalia Herrera, Sergio Campos
+VOL390101CDE | Volkswagen | Internacional | Alemania | Automotriz | Miguel Rodriguez, Ricardo Gomez, Elena Vazquez, Hector Vega
+
+ESTADISTICAS
+EMPRESAS PROCESADAS  :   20
+EMPRESAS SIN EMPLEADOS:    0
+RELACIONES EMPLEADO-EMPRESA:   69

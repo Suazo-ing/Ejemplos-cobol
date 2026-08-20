@@ -1,0 +1,10 @@
+0005  1000  CARLOS         GARCIA        LOPEZ        28  HOMBRE  UPIBI-IPN        
+0006  2000  MARIA          HERNANDEZ     RUIZ         34  MUJER   UNAM             
+0008  1000  JOSE LUIS      MARTINEZ      SANCHEZ      45  HOMBRE  ESCA-IPN        
+0009  7000  ANA            TORRES        FLORES       30  MUJER   UPIITA-IPN      
+0010  0100  ROBERTO        GOMEZ         DIAZ         35  HOMBRE  ESIME-IPN        
+0001  1000  LAURA          VAZQUES       MORENO       29  MUJER   ESFM-IPN         
+0004  5000  ERNESTO        CRUZ          MARTINEZ     25  HOMBRE  UAM              
+0003  5000  JOSE EDUARDO   SANCHEZ       LOPEZ        31  HOMBRE  ITESM            
+0007  3000  ERIKA          SERRANO       VALDERRAMA   40  MUJER   UACM             
+0002  8000  JESUS          JIMENEZ       ORTIZ        36  HOMBRE  ITESM            

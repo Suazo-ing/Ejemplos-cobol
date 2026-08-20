@@ -1,0 +1,131 @@
+==============================================================================
+          REPORTE DE EMPRESAS Y EMPLEADOS RELACIONADOS
+==============================================================================
+
+[01] Grupo Bimbo  (RFC: GMB120101ABC)
+     Tipo : Nacional     Pais : Mexico     Giro : Alimentos
+     Empleados (03) : Juan Garcia, Fernando Flores, Eduardo Jimenez
+
+------------------------------------------------------------------------------
+
+[02] Cemex  (RFC: CEM850101XYZ)
+     Tipo : Nacional     Pais : Mexico     Giro : Construccion
+     Empleados (04) : Juan Garcia, Miguel Rodriguez, Roberto Morales, Hector Vega
+
+------------------------------------------------------------------------------
+
+[03] America Movil  (RFC: AMO890101DEF)
+     Tipo : Nacional     Pais : Mexico     Giro : Telecomunicaciones
+     Empleados (02) : Carlos Martinez, Daniela Diaz
+
+------------------------------------------------------------------------------
+
+[04] Femsa  (RFC: FEM900101GHI)
+     Tipo : Nacional     Pais : Mexico     Giro : Bebidas
+     Empleados (03) : Maria Lopez, Carmen Chavez, Eduardo Jimenez
+
+------------------------------------------------------------------------------
+
+[05] Grupo Modelo  (RFC: GMO930101JKL)
+     Tipo : Nacional     Pais : Mexico     Giro : Bebidas
+     Empleados (04) : Maria Lopez, Gabriela Rivera, Carmen Chavez, Paola Aguilar
+
+------------------------------------------------------------------------------
+
+[06] Banorte  (RFC: BNR950101MNO)
+     Tipo : Nacional     Pais : Mexico     Giro : Finanzas
+     Empleados (05) : Carlos Martinez, Ana Hernandez, Laura Sanchez, Monica Castillo, Adriana Nunez
+
+------------------------------------------------------------------------------
+
+[07] Alfa  (RFC: ALF880101PQR)
+     Tipo : Nacional     Pais : Mexico     Giro : Industria
+     Empleados (02) : Ricardo Gomez, Oscar Medina
+
+------------------------------------------------------------------------------
+
+[08] Liverpool  (RFC: LIV920101STU)
+     Tipo : Nacional     Pais : Mexico     Giro : Comercio
+     Empleados (03) : Ana Hernandez, Patricia Ortiz, Monica Castillo
+
+------------------------------------------------------------------------------
+
+[09] Google  (RFC: GOO990101VWX)
+     Tipo : Internacional     Pais : Estados Unidos     Giro : Tecnologia
+     Empleados (05) : Luis Gonzalez, Diego Ramirez, Daniela Diaz, Andres Mendoza, Claudia Soto
+
+------------------------------------------------------------------------------
+
+[10] Microsoft  (RFC: MIC850101YZA)
+     Tipo : Internacional     Pais : Estados Unidos     Giro : Tecnologia
+     Empleados (05) : Luis Gonzalez, Valeria Torres, Alejandro Gutierrez, Andres Mendoza, Sergio Campos
+
+------------------------------------------------------------------------------
+
+[11] Amazon  (RFC: AMZ940101BCD)
+     Tipo : Internacional     Pais : Estados Unidos     Giro : Comercio
+     Empleados (03) : Fernando Flores, Jorge Ramos, Paola Aguilar
+
+------------------------------------------------------------------------------
+
+[12] Apple  (RFC: APL760101EFG)
+     Tipo : Internacional     Pais : Estados Unidos     Giro : Tecnologia
+     Empleados (03) : Sofia Perez, Patricia Ortiz, Andres Mendoza
+
+------------------------------------------------------------------------------
+
+[13] Toyota  (RFC: TOY380101HIJ)
+     Tipo : Internacional     Pais : Japon     Giro : Automotriz
+     Empleados (04) : Miguel Rodriguez, Roberto Morales, Elena Vazquez, Hector Vega
+
+------------------------------------------------------------------------------
+
+[14] Samsung  (RFC: SAM690101KLM)
+     Tipo : Internacional     Pais : Corea del Sur     Giro : Tecnologia
+     Empleados (03) : Sofia Perez, Natalia Herrera, Sergio Campos
+
+------------------------------------------------------------------------------
+
+[15] Siemens  (RFC: SIE470101NOP)
+     Tipo : Internacional     Pais : Alemania     Giro : Industria
+     Empleados (03) : Valeria Torres, Ricardo Gomez, Oscar Medina
+
+------------------------------------------------------------------------------
+
+[16] Nestle  (RFC: NES010101QRS)
+     Tipo : Internacional     Pais : Suiza     Giro : Alimentos
+     Empleados (03) : Laura Sanchez, Jorge Ramos, Adriana Nunez
+
+------------------------------------------------------------------------------
+
+[17] Coca Cola  (RFC: COC990101TUV)
+     Tipo : Internacional     Pais : Estados Unidos     Giro : Bebidas
+     Empleados (04) : Gabriela Rivera, Carmen Chavez, Eduardo Jimenez, Paola Aguilar
+
+------------------------------------------------------------------------------
+
+[18] IBM  (RFC: IBM110101WXY)
+     Tipo : Internacional     Pais : Estados Unidos     Giro : Tecnologia
+     Empleados (03) : Diego Ramirez, Alejandro Gutierrez, Claudia Soto
+
+------------------------------------------------------------------------------
+
+[19] Sony  (RFC: SON590101ZAB)
+     Tipo : Internacional     Pais : Japon     Giro : Tecnologia
+     Empleados (03) : Alejandro Gutierrez, Natalia Herrera, Sergio Campos
+
+------------------------------------------------------------------------------
+
+[20] Volkswagen  (RFC: VOL390101CDE)
+     Tipo : Internacional     Pais : Alemania     Giro : Automotriz
+     Empleados (04) : Miguel Rodriguez, Ricardo Gomez, Elena Vazquez, Hector Vega
+
+------------------------------------------------------------------------------
+
+==============================================================================
+          ESTADISTICAS
+==============================================================================
+
+     Empresas procesadas   :   20
+     Empresas sin empleados:    0
+     Relaciones empleado-empresa:   69

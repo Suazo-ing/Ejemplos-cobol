@@ -1,0 +1,20 @@
+ALF880101PQR Alfa                Nacional            Mexico            Industria
+AMO890101DEF America Movil       Nacional            Mexico            Telecomunicaciones
+AMZ940101BCD Amazon              Internacional       Estados Unidos    Comercio
+APL760101EFG Apple               Internacional       Estados Unidos    Tecnologia
+BNR950101MNO Banorte             Nacional            Mexico            Finanzas
+CEM850101XYZ Cemex               Nacional            Mexico            Construccion
+COC990101TUV Coca Cola           Internacional       Estados Unidos    Bebidas
+FEM900101GHI Femsa               Nacional            Mexico            Bebidas
+GMB120101ABC Grupo Bimbo         Nacional            Mexico            Alimentos
+GMO930101JKL Grupo Modelo        Nacional            Mexico            Bebidas
+GOO990101VWX Google              Internacional       Estados Unidos    Tecnologia
+IBM110101WXY IBM                 Internacional       Estados Unidos    Tecnologia
+LIV920101STU Liverpool           Nacional            Mexico            Comercio
+MIC850101YZA Microsoft           Internacional       Estados Unidos    Tecnologia
+NES010101QRS Nestle              Internacional       Suiza             Alimentos
+SAM690101KLM Samsung             Internacional       Corea del Sur     Tecnologia
+SIE470101NOP Siemens             Internacional       Alemania          Industria
+SON590101ZAB Sony                Internacional       Japon             Tecnologia
+TOY380101HIJ Toyota              Internacional       Japon             Automotriz
+VOL390101CDE Volkswagen          Internacional       Alemania          Automotriz

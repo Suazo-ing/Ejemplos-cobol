@@ -1,0 +1,52 @@
+TASA_FLOT_02                  14/05/2027SALDO_INSOLUTO      BIMESTRAL           TASA TIIE                                         SI09AMERICAN03/05/2029          NO+0001356+0017680
+ESTRUCT_03                    22/02/2026SALDO_INSOLUTO      ANUAL               CUPON IPC                                         SI01AMERICAN23/05/2026          NO+0002402+0000370
+NOTA_CAP_01                   12/07/2025VALOR_MERCADO       ANUAL               TASA SOFR                                         NO09AMERICAN05/01/2027          SI+0023629+0014188
+BONO_GUB_34                   05/01/2026VALOR_NOMINAL       SEMESTRAL           CUPON FIJO                                        NO03EUROPEA 05/01/2027          NO+0008750+0009250
+BONO_CORP_B                   18/03/2026SALDO_INSOLUTO      TRIMESTRAL          TASA REFERENCIADA                                 SI06BERMUDAS18/03/2027          NO+0012500+0013750
+CERT_DEPOSITO                 30/04/2026CAPITAL             MENSUAL             TASA TIIE                                         NO02EUROPEA 30/10/2026          NO+0010500+0011200
+BONDE_F_01                    15/06/2025VALOR_NOMINAL       SEMESTRAL           TASA CETE                                         SI04EUROPEA 15/06/2027          NO+0007250+0008100
+CUPON_VAR_02                  27/08/2026SALDO_PROMEDIO      MENSUAL             CUPON VARIABLE                                    NO12AMERICAN27/08/2027          NO+0018750+0020125
+BONO_UDIS_01                  09/09/2025VALOR_NOMINAL       ANUAL               CUPON FIJO                                        NO01EUROPEA 09/09/2030          NO+0006500+0007000
+SWAP_TASA_02                  11/11/2026TASA_REFERENCIA     TRIMESTRAL          TASA SOFR                                         SI08BERMUDAS11/11/2028          NO+0021500+0022875
+PAGARE_BANC                   02/02/2027CAPITAL             MENSUAL             TASA TIIE                                         NO03EUROPEA 02/08/2027          NO+0011000+0012500
+BONO_IPC_02                   20/01/2026VALOR_MERCADO       SEMESTRAL           CUPON IPC                                         SI05AMERICAN20/01/2028          NO+0017250+0018500
+ESTRUCT_01                    07/04/2025SALDO_INSOLUTO      TRIMESTRAL          TASA REFERENCIADA                                 NO02BERMUDAS07/04/2027          NO+0020500+0022000
+CETE_SIM_02                   16/05/2026VALOR_NOMINAL       MENSUAL             TASA CETE                                         NO06EUROPEA 16/11/2026          NO+0004500+0005250
+BONO_BANC_03                  25/07/2025SALDO_PROMEDIO      SEMESTRAL           CUPON FIJO                                        SI07EUROPEA 25/07/2028          NO+0013250+0014750
+NOTA_AUT_02                   13/12/2026VALOR_NOMINAL       ANUAL               CUPON VARIABLE                                    NO04AMERICAN13/12/2028          NO+0019500+0020750
+BONO_GUB_28                   08/01/2026VALOR_NOMINAL       SEMESTRAL           CUPON FIJO                                        NO02EUROPEA 08/01/2030          NO+0009250+0010000
+BONO_EMP_02                   19/02/2027VALOR_MERCADO       TRIMESTRAL          TASA TIIE                                         SI03BERMUDAS19/02/2029          NO+0014750+0015875
+UDIBONO_02                    21/03/2026VALOR_NOMINAL       SEMESTRAL           CUPON IPC                                         NO10EUROPEA 21/03/2031          NO+0005875+0006625
+CERT_COBERT_01                14/04/2025SALDO_INSOLUTO      MENSUAL             TASA SOFR                                         SI05AMERICAN14/04/2027          NO+0023500+0024875
+BONO_GUB_32                   03/06/2026VALOR_NOMINAL       ANUAL               CUPON FIJO                                        NO01EUROPEA 03/06/2032          NO+0008125+0009375
+ESTRUCT_04                    29/07/2025VALOR_MERCADO       TRIMESTRAL          TASA REFERENCIADA                                 SI11ASIATICA29/07/2028          NO+0016875+0018250
+BONDE_F_02                    17/08/2026SALDO_INSOLUTO      MENSUAL             TASA CETE                                         NO04EUROPEA 17/02/2027          NO+0005375+0006250
+BOND_USD_01                   10/10/2025VALOR_NOMINAL       SEMESTRAL           CUPON FIJO                                        SI08AMERICAN10/10/2029          NO+0012750+0014125
+BONO_CORP_A                   24/11/2026CAPITAL             TRIMESTRAL          CUPON VARIABLE                                    NO06BERMUDAS24/11/2028          NO+0018375+0019625
+CUPON_FIJO_01                 06/01/2027VALOR_NOMINAL       MENSUAL             CUPON FIJO                                        NO02EUROPEA 06/07/2027          NO+0009750+0010875
+BONO_UDIS_02                  12/02/2026VALOR_NOMINAL       ANUAL               CUPON IPC                                         SI03EUROPEA 12/02/2031          NO+0007125+0008250
+SWAP_TASA_01                  18/05/2025TASA_REFERENCIA     TRIMESTRAL          TASA TIIE                                         NO09BERMUDAS18/05/2028          NO+0015500+0016750
+BONO_BANC_01                  27/06/2026SALDO_PROMEDIO      SEMESTRAL           CUPON VARIABLE                                    SI04AMERICAN27/06/2029          NO+0013875+0015250
+PAPEL_COM_02                  09/08/2025CAPITAL             MENSUAL             CUPON CERO                                        NO01EUROPEA 09/02/2026          SI+0000000+0000000
+TESOBONO_01                   15/09/2026VALOR_NOMINAL       SEMESTRAL           TASA CETE                                         NO05EUROPEA 15/09/2029          NO+0004750+0005875
+BONO_EMP_03                   22/10/2025VALOR_MERCADO       TRIMESTRAL          TASA REFERENCIADA                                 SI07BERMUDAS22/10/2028          NO+0020250+0021750
+CUPON_FIJO_02                 04/12/2026SALDO_INSOLUTO      MENSUAL             CUPON FIJO                                        NO03EUROPEA 04/06/2027          NO+0010125+0011250
+BONO_GUB_30                   16/01/2027VALOR_NOMINAL       ANUAL               CUPON FIJO                                        NO02EUROPEA 16/01/2030          NO+0008625+0009750
+NOTA_CAP_02                   28/02/2026VALOR_MERCADO       SEMESTRAL           TASA SOFR                                         SI06AMERICAN28/02/2029          NO+0022750+0024125
+BONDE_F_03                    11/03/2025SALDO_INSOLUTO      MENSUAL             TASA CETE                                         NO08EUROPEA 11/09/2025          NO+0004250+0005125
+BONO_IPC_01                   07/05/2026VALOR_NOMINAL        SEMESTRAL          CUPON IPC                                         SI03EUROPEA 07/05/2030          NO+0011625+0012875
+BOND_USD_02                   19/06/2025VALOR_MERCADO       TRIMESTRAL          TASA SOFR                                         NO04AMERICAN19/06/2028          NO+0031500+0032750
+BONO_BANC_02                  23/07/2026SALDO_INSOLUTO      MENSUAL             TASA TIIE                                         SI10BERMUDAS23/07/2028          NO+0017125+0018375
+BONO_EMP_01                   31/08/2025CAPITAL              SEMESTRAL          CUPON VARIABLE                                    NO05AMERICAN31/08/2028          NO+0014875+0016125
+PAPEL_COM_01                  05/10/2026VALOR_NOMINAL        MENSUAL            CUPON CERO                                        NO01EUROPEA 05/01/2027          NO+0000000+0000000
+TESOBONO_02                   14/11/2025VALOR_NOMINAL        ANUAL              TASA CETE                                         SI02EUROPEA 14/11/2029          NO+0006250+0007375
+BONO_GUB_36                   20/12/2026VALOR_NOMINAL        SEMESTRAL          CUPON FIJO                                        NO04EUROPEA 20/12/2031          NO+0010250+0011375
+CERT_COBERT_02                02/03/2027SALDO_PROMEDIO      TRIMESTRAL          TASA REFERENCIADA                                 SI12ASIATICA02/03/2030          NO+0024750+0025875
+BONO_CORP_C                   17/04/2026VALOR_MERCADO       SEMESTRAL           CUPON VARIABLE                                    NO07BERMUDAS17/04/2029          NO+0019375+0020500
+TASA_FLOT_01                  26/05/2025TASA_REFERENCIA     MENSUAL             TASA SOFR                                         SI06AMERICAN26/11/2027          NO+0026875+0028125
+BONO_UDIS_01                  08/06/2026VALOR_NOMINAL        ANUAL              CUPON IPC                                         NO03EUROPEA 08/06/2031          NO+0006875+0008125
+ESTRUCT_02                    29/09/2025VALOR_MERCADO       TRIMESTRAL          TASA REFERENCIADA                                 SI08ASIATICA29/09/2029          NO+0021875+0023250
+NOTA_AUT_01                   13/10/2026SALDO_INSOLUTO      SEMESTRAL           CUPON VARIABLE                                    NO05AMERICAN13/10/2029          NO+0017750+0019125
+CETE_SIM_01                   21/11/2025VALOR_NOMINAL        MENSUAL            TASA CETE                                         NO02EUROPEA 21/05/2026          NO+0003875+0004750
+BONDE_F_01                    10/02/2026VALOR_NOMINAL        SEMESTRAL          TASA CETE                                         SI04EUROPEA 10/02/2029          NO+0005125+0006375
+BONO_GUB_28                   18/08/2025VALOR_NOMINAL        ANUAL              CUPON FIJO                                        NO01EUROPEA 18/08/2030          NO+0008375+0009500

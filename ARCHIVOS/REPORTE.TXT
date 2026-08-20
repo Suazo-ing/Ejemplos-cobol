@@ -1,0 +1,14 @@
+--REPORTE RELACIONADO--
+------------------EMPLEADO------------------|-EDAD-|----UNIVERSIDAD----|-------DEPARTAMENTO------|-------------CIUDAD-------------|----SALARIO----|
+ROBERTO          GOMEZ           DIAZ       | 35   | ESIME-IPN         | RECURSOS HUMANOS        | GUANAJUATO                     |        $985.00|
+CARLOS           GARCIA          LOPEZ      | 28   | UPIBI-IPN         | RECURSOS HUMANOS        | GUANAJUATO                     |        $850.50|
+JOSE LUIS        MARTINEZ        SANCHEZ    | 45   | ESCA-IPN          | RECURSOS HUMANOS        | GUANAJUATO                     |        $850.50|
+LAURA            VAZQUES         MORENO     | 29   | ESFM-IPN          | RECURSOS HUMANOS        | GUANAJUATO                     |        $850.50|
+MARIA            HERNANDEZ       RUIZ       | 34   | UNAM              | VENTAS                  | GUANAJUATO                     |        $740.00|
+ERIKA            SERRANO         VALDERRAMA | 40   | UACM              | CONTABILIDAD            | QUERETARO                      |      $1,305.00|
+ERNESTO          CRUZ            MARTINEZ   | 25   | UAM               | SISTEMAS                | CIUDAD DE MEXICO               |        $950.70|
+JOSE EDUARDO     SANCHEZ         LOPEZ      | 31   | ITESM             | SISTEMAS                | CIUDAD DE MEXICO               |        $950.70|
+ANA              TORRES          FLORES     | 30   | UPIITA-IPN        | PRODUCCION              | CIUDAD DE MEXICO               |        $650.20|
+JESUS            JIMENEZ         ORTIZ      | 36   | ITESM             | ADMINISTRACION          | GUANAJUATO                     |      $1,350.50|
+ESTADISTICAS
+EMPLEADOS COMBINADOS CORRECTAMENTE:    10

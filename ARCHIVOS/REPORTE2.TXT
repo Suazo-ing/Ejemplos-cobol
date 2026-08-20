@@ -1,0 +1,50 @@
+--REPORTE DE EMPLEADOS Y TELEFONOS--
+EMPLEADO             NOMBRE COMPLETO                         TELEFONO
+EMP00001   | Alejandro Garcia Lopez                                       | 555-010-1012
+EMP00002   | Mariana Torres Hernandez                                     | 555-010-1019, 555-010-1020
+EMP00003   | Roberto Sanchez Martinez                                     | 555-010-1009
+EMP00004   | Fernanda Ramirez Castillo                                    | 555-010-1022, 555-010-1023
+EMP00005   | Diego Mendoza Flores                                         | 555-010-1001, 555-010-1002
+EMP00006   | Valeria Navarro Cruz                                         | 555-010-1003
+EMP00007   | Ricardo Morales Vargas                                       | 555-010-1010, 555-010-1011
+EMP00008   | Daniela Ortega Reyes                                         | 555-010-1030
+EMP00009   | Carlos Jimenez Silva                                         | 555-010-1004, 555-010-1005
+EMP00010   | Andrea Ruiz Mendoza                                          | 555-010-1006, 555-010-1015
+EMP00011   | Luis Herrera Gomez                                           | 555-010-1016, 555-010-1017, 555-010-1045
+EMP00012   | Paola Castro Sanchez                                         | 555-010-1013, 555-010-1014
+EMP00013   | Miguel Ramirez Torres                                        | 555-010-1018
+EMP00014   | Sofia Vargas Martinez                                        | 555-010-1021
+EMP00015   | Jorge Flores Navarro                                         | 555-010-1007, 555-010-1008
+
+-----------------------------------------------------------
+TELEFONOS SIN EMPLEADO ASIGNADO
+-----------------------------------------------------------
+555-010-1024
+555-010-1025
+555-010-1026
+555-010-1027
+555-010-1028
+555-010-1029
+555-010-1031
+555-010-1032
+555-010-1033
+555-010-1034
+555-010-1035
+555-010-1036
+555-010-1037
+555-010-1038
+555-010-1039
+555-010-1040
+555-010-1041
+555-010-1042
+555-010-1043
+555-010-1044
+555-010-1046
+555-010-1047
+555-010-1048
+555-010-1049
+555-010-1050
+ESTADISTICAS
+EMPLEADOS CON TELEFONO:   15
+TELEFONOS RELACIONADOS :   25
+TELEFONOS SIN EMPLEADO :   25
